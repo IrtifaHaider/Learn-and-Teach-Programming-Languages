@@ -1,0 +1,10 @@
+Name: Prof. Alan Turing, Reg No: 10101010, Email: alan.turing@example.com
+Name: Dr. Ada Lovelace, Reg No: 10101011, Email: ada.lovelace@example.com
+Name: Prof. John von Neumann, Reg No: 10101012, Email: john.vonneumann@example.com
+Name: Dr. Grace Hopper, Reg No: 10101013, Email: grace.hopper@example.com
+Name: Prof. Donald Knuth, Reg No: 10101014, Email: donald.knuth@example.com
+Name: Dr. Linus Torvalds, Reg No: 10101015, Email: linus.torvalds@example.com
+Name: Prof. Guido van Rossum, Reg No: 10101016, Email: guido.vanrossum@example.com
+Name: Dr. Margaret Hamilton, Reg No: 10101017, Email: margaret.hamilton@example.com
+Name: Prof. Tim Berners-Lee, Reg No: 10101018, Email: tim.bernerslee@example.com
+Name: Dr. Barbara Liskov, Reg No: 10101019, Email: barbara.liskov@example.com

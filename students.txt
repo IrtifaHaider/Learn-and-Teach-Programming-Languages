@@ -1,0 +1,10 @@
+Name: John Doe, Reg No: 20210001, Email: N/A, Session: 2021-2022
+Name: Jane Smith, Reg No: 20210002, Email: N/A, Session: 2021-2022
+Name: Alice Johnson, Reg No: 20210003, Email: N/A, Session: 2021-2022
+Name: Bob Brown, Reg No: 20210004, Email: N/A, Session: 2021-2022
+Name: Charlie Davis, Reg No: 20210005, Email: N/A, Session: 2021-2022
+Name: Diana Evans, Reg No: 20210006, Email: N/A, Session: 2021-2022
+Name: Frank Green, Reg No: 20210007, Email: N/A, Session: 2021-2022
+Name: Grace Harris, Reg No: 20210008, Email: N/A, Session: 2021-2022
+Name: Henry Lee, Reg No: 20210009, Email: N/A, Session: 2021-2022
+Name: Irene Clark, Reg No: 20210010, Email: N/A, Session: 2021-2022

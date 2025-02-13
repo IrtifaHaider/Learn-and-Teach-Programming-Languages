@@ -1,0 +1,10 @@
+Student: John Doe, Course: Python
+Student: Jane Smith, Course: C
+Student: Alice Johnson, Course: Java
+Student: Bob Brown, Course: JavaScript
+Student: Charlie Davis, Course: SQL
+Student: Diana Evans, Course: C++
+Student: Frank Green, Course: Ruby
+Student: Grace Harris, Course: Go
+Student: Henry Lee, Course: Rust
+Student: Irene Clark, Course: Swift

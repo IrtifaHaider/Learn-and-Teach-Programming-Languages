@@ -1,0 +1,10 @@
+Language: Python, Topics: Introduction, Data Types, Loops, Functions, Hours: 20.00 hours, Tools: Python IDE, Teacher: Prof. Guido van Rossum
+Language: C, Topics: Introduction, Pointers, Memory Management, Hours: 30.00 hours, Tools: GCC Compiler, Teacher: Dr. Linus Torvalds
+Language: Java, Topics: OOP, Inheritance, Polymorphism, Hours: 25.00 hours, Tools: Eclipse IDE, Teacher: Dr. Barbara Liskov
+Language: JavaScript, Topics: DOM Manipulation, Async Programming, Hours: 15.00 hours, Tools: Node.js, Teacher: Prof. Tim Berners-Lee
+Language: SQL, Topics: Database Design, Queries, Joins, Hours: 10.00 hours, Tools: MySQL, Teacher: Dr. Grace Hopper
+Language: C++, Topics: STL, Templates, OOP, Hours: 35.00 hours, Tools: Visual Studio, Teacher: Prof. John von Neumann
+Language: Ruby, Topics: Ruby on Rails, MVC Architecture, Hours: 18.00 hours, Tools: RubyMine, Teacher: Dr. Ada Lovelace
+Language: Go, Topics: Concurrency, Goroutines, Channels, Hours: 22.00 hours, Tools: Go Compiler, Teacher: Prof. Donald Knuth
+Language: Rust, Topics: Memory Safety, Ownership, Hours: 28.00 hours, Tools: Cargo, Teacher: Prof. Alan Turing
+Language: Swift, Topics: iOS Development, UIKit, Hours: 24.00 hours, Tools: Xcode, Teacher: Dr. Margaret Hamilton
